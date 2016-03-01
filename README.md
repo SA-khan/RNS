@@ -1,2 +1,0 @@
-# RNS
-for project purpose
