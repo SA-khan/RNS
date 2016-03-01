@@ -1,0 +1,11 @@
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\bin\Debug\RNS.exe.config
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\bin\Debug\RNS.exe
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\bin\Debug\RNS.pdb
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.csprojResolveAssemblyReference.cache
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.Properties.Resources.resources
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.csproj.GenerateResource.Cache
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.exe
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.pdb
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.RNS.resources
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.Form2.resources
+c:\users\saad\documents\visual studio 2012\Projects\RNS\RNS\obj\Debug\RNS.cab_service.resources
